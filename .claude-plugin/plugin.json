@@ -2,11 +2,7 @@
   "name": "adr",
   "version": "1.0.0",
   "description": "Architecture Decision Records (ADR) plugin for documenting architectural decisions using Michael Nygard's template with sequential numbering, status tracking, and searchable index",
-  "author": "Andronics",
-  "keywords": ["adr", "architecture", "decisions", "documentation", "governance"],
-  "license": "MIT",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/andronics/claude-plugin-adr"
+  "author": {
+    "name": "Andronics Team"
   }
 }
